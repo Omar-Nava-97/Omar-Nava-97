@@ -1,3 +1,4 @@
+![Banner Git](https://i.postimg.cc/13G3MdPN/Omar-Nava.gif)
 
 <h1 align="center">Hola 🐊, Soy Ricardo Omar Martinez Nava</h1>
 <h3 align="center">Estoy atraído por el desarrollo de web pages y apps 👽​</h3>
